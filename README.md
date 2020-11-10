@@ -6,4 +6,4 @@ We read files that contain historical time series sentiment data for the MSCI US
 
 ## PHASE 1.0
 Get historical time series data from all the tickers in the files, including:
-      1. Daily prices
+    <li> 1. Daily prices
